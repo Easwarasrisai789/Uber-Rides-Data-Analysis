@@ -33,7 +33,7 @@ To run this project, you need to have the following libraries installed:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/Uber-Rides-Data-Analysis.git
+    git clone [https://github.com/your-username/Uber-Rides-Data-Analysis.git](https://github.com/Easwarasrisai789/Uber-Rides-Data-Analysis/tree/main)
     cd Uber-Rides-Data-Analysis
     ```
 
